@@ -1,4 +1,4 @@
-# Webistes
+# Websites
 Android application fetching and displaying a list of websites.
 
 ## Technical Choice & Quality
